@@ -473,7 +473,7 @@ Eine weitere Idee war, die Schüler:innen während der Testbearbeitung um eine S
 
 ### Ausblick
 
-Beide Prototypen (s. [Schüler:innenbericht](kompetenzstand-mathematik.md) und [Klassenbericht](kompetenzstand-mathematik-klassenbericht.md)) wurden für den Einsatz im Fach Mathematik in Jahrgangsstufe 8 konzipiert. Eine Übertragung auf andere Fächer oder Jahrgangsstufen ist grundsätzlich denkbar, erfordert jedoch eine fachliche Prüfung und entsprechende Anpassungen. Dazu gehören insbesondere die inhaltliche Abstimmung der Rückmeldungen, die Auswahl geeigneter Vergleichswerte, die Überprüfung der Berechnungsgrundlagen sowie gegebenenfalls Anpassungen des Designs.
+Beide Prototypen (s. [Schüler:innenbericht](https://github.com/kompetenztestde/kompetenzstand-mathematik-schuelerinnenbericht) und [Klassenbericht](https://github.com/kompetenztestde/kompetenzstand-mathematik-klassenbericht)) wurden für den Einsatz im Fach Mathematik in Jahrgangsstufe 8 konzipiert. Eine Übertragung auf andere Fächer oder Jahrgangsstufen ist grundsätzlich denkbar, erfordert jedoch eine fachliche Prüfung und entsprechende Anpassungen. Dazu gehören insbesondere die inhaltliche Abstimmung der Rückmeldungen, die Auswahl geeigneter Vergleichswerte, die Überprüfung der Berechnungsgrundlagen sowie gegebenenfalls Anpassungen des Designs.
 
 Die entwickelten Prototypen zeigen, wie Rückmeldungen aus VERA stärker an den Informationsbedürfnissen der jeweiligen Zielgruppen ausgerichtet werden können. Der Schüler:innenbericht stellt eine verständliche und motivierende Einordnung der individuellen Testergebnisse in den Mittelpunkt. Der Klassenbericht bietet Lehrkräften differenzierte Auswertungsmöglichkeiten und Ansatzpunkte für die weitere Unterrichtsentwicklung.
 
