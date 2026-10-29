@@ -364,7 +364,7 @@ Darüber hinaus besteht der Wunsch, die Ergebnisse aus VERA mit denen anderer di
 
 Im Rahmen des Projekts wurden zunächst vielfältige Ideen gesammelt. Anschließend lag der Schwerpunkt auf der konkreten Entwicklung von Rückmeldungen, die sich innerhalb der bestehenden Strukturen umsetzen lassen. Dabei wurden zwei zentrale Adressat:innengruppen identifiziert: Schüler:innen und Lehrkräfte.
 
-Für diese beiden Gruppen wurden jeweils eigene Prototypen entwickelt (s. [Schüler:innenbericht](kompetenzstand-mathematik.md) und [Klassenbericht](kompetenzstand-mathematik-klassenbericht.md)). Sie berücksichtigen die unterschiedlichen Informationsbedürfnisse und können unabhängig voneinander eingesetzt werden. Gleichzeitig verbindet sie ein gemeinsames visuelles Gestaltungskonzept.
+Für diese beiden Gruppen wurden jeweils eigene Prototypen entwickelt (s. [Schüler:innenbericht](https://github.com/kompetenztestde/kompetenzstand-mathematik-schuelerinnenbericht) und [Klassenbericht](https://github.com/kompetenztestde/kompetenzstand-mathematik-klassenbericht)). Sie berücksichtigen die unterschiedlichen Informationsbedürfnisse und können unabhängig voneinander eingesetzt werden. Gleichzeitig verbindet sie ein gemeinsames visuelles Gestaltungskonzept.
 
 ### Vorüberlegungen
 
